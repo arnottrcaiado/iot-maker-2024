@@ -89,10 +89,3 @@ A integração entre IoT e o movimento maker abre novas possibilidades para a cr
 
 - **INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO.** Guia de Segurança para IoT. Brasília: INTT, 2019. Disponível em: <https://www.intt.gov.br/guias/seguranca-iot.pdf>. Acesso em: 23 set. 2024.
 
-## Imagens
-
-1. **Esquema de Conexão IoT Residencial:**
-   ![Esquema de Conexão IoT Residencial](https://github.com/seu-usuario/projeto-iot-maker/raw/main/images/iot-residencial.png)
-
-2. **Exemplo de Protótipo Maker:**
-   ![Exemplo de Protótipo Maker](https://github.com/seu-usuario/projeto-iot-maker/raw/main/images/prototipo-maker.png)
