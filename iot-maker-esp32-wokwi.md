@@ -1,6 +1,4 @@
-Aqui está o capítulo atualizado com a melhoria no texto e um exemplo detalhado usando o Wokwi com Wi-Fi:
 
-```markdown
 # ESP32 e IoT: Explorando o Potencial da Placa Espressif
 
 ## Introdução à Placa ESP32
