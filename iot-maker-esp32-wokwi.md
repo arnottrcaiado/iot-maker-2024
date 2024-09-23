@@ -32,7 +32,7 @@ A arquitetura da ESP32 inclui uma série de componentes que tornam a placa extre
 
 A ESP32 possui mais pinos GPIO em comparação com a maioria das placas Arduino, permitindo maior flexibilidade em projetos complexos. É importante notar que alguns pinos têm funcionalidades especiais, como entrada analógica, conversão digital para analógico (DAC) e pulsos de largura modulada (PWM).
 
-![Pinagem ESP32]<https://blog.eletrogate.com/conhecendo-o-esp32-introducao-1/>
+[Pinagem ESP32](https://blog.eletrogate.com/conhecendo-o-esp32-introducao-1/)
 
 ### Voltagem
 
