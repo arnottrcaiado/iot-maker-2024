@@ -1,6 +1,3 @@
-Aqui está o capítulo desenvolvido conforme solicitado:
-
-```markdown
 # Movimento Maker e Arduino: Uma Revolução na Criação Tecnológica
 
 ## Introdução ao Movimento Maker
